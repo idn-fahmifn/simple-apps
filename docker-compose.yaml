@@ -8,5 +8,5 @@ services:
     volumes:
       - vol-apps:/app/public/images/
 
-vol-web1:
+volumes:
   vol-apps:
